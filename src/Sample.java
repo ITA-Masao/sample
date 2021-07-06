@@ -1,6 +1,8 @@
 public class Sample {
 
     public void sayHello(){
-        System.out.print("hello");
+        System.out.println("hello");
+        System.out.print("Nice");
     }
+
 }
